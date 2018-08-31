@@ -31,24 +31,24 @@
 ## 运行效果
 <br> 生成器运行效果： </br>
 <br>  </br>
-![生成器运行图片加载失败！！！]()
+![生成器运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/getter.png)
 <br>  </br>
 
 <br> 测试器运行效果： </br>
 <br>  </br>
-![测试器运行图片加载失败！！！]()
+![测试器运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/tester1.png)
 <br>  </br>
-![测试器运行图片加载失败！！！]()
+![测试器运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/tester2.png)
 <br>  </br>
 
 <br> 接口运行效果： </br>
 <br>  </br>
-![接口运行图片加载失败！！！]()
+![接口运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/api1.png)
 <br>  </br>
-![接口运行图片加载失败！！！]()
+![接口运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/api2.png)
 <br>  </br>
 
 <br> 调度后运行效果： </br>
 <br>  </br>
-![调度运行图片加载失败！！！]()
+![调度运行图片加载失败！！！](https://github.com/ZZShi/proxy_pool/blob/master/result/pps_running.png)
 <br>  </br>
